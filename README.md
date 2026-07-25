@@ -30,7 +30,7 @@ Current focus: kernel exploitation, microarchitecture attacks, and platform secu
 ```
 Target: Offensive Security · Vulnerability Research · Platform/Embedded Security
 Background: Embedded Systems · Automotive Software · Linux Internals
-Location: Cairo, Egypt · Open to Remote
+Location: Cairo, Egypt · Open to Remote · Open to Relocate
 ```
 
 ---
