@@ -42,11 +42,11 @@ Location: Cairo, Egypt · Open to Remote · Open to Relocate
 
 | Writeup | Category | Core Technique |
 |---------|----------|----------------|
-| [Advanced Memory Corruption](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/memory-corruption-multi-stage) | Binary Exploitation | PIE leak · GOT hijack · mprotect bypass |
-| [Anti-Automation Bypass](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/anti-automation-bypass) | Cryptanalysis · RE | SHA-256 on 25-element space · binary parsing |
-| [Chain Reaction: Secure Chat](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/chain-reaction-secure-chat) | Web · Crypto · BinExp | SQLi → XSS → DH manipulation → ECB oracle → BOF |
-| [Emulator Breakthrough](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/emulator-breakthrough) | VM Exploitation · RE | Randomized ISA reconstruction · exit oracle |
-| [Ghost Page: Prefetch Side-Channel](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/prefetch-side-channel) | Microarchitecture · Side-Channel | Non-faulting memory scan · TLB timing oracle · exit-status exfiltration |
+| [Advanced Memory Corruption](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/memory-corruption-multi-stage) | Binary Exploitation | PIE leak · GOT hijack · mprotect bypass |
+| [Anti-Automation Bypass](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/anti-automation-bypass) | Cryptanalysis · RE | SHA-256 on 25-element space · binary parsing |
+| [Chain Reaction: Secure Chat](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/chain-reaction-secure-chat) | Web · Crypto · BinExp | SQLi → XSS → DH manipulation → ECB oracle → BOF |
+| [Emulator Breakthrough](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/emulator-breakthrough) | VM Exploitation · RE | Randomized ISA reconstruction · exit oracle |
+| [Ghost Page: Prefetch Side-Channel](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/prefetch-side-channel) | Microarchitecture · Side-Channel | Non-faulting memory scan · TLB timing oracle · exit-status exfiltration |
 ---
 
 ## Skills
