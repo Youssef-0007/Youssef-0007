@@ -38,7 +38,7 @@ Location: Cairo, Egypt · Open to Remote · Open to Relocate
 ## Research
 
 ### [`Offensive-Security-Research`](https://github.com/Youssef-0007/Offensive-Security-Research)
-> Deep-dive exploitation writeups across binary, crypto, web, and VM attack surfaces.
+> Deep-dive exploitation writeups across binary, crypto, web, VM and Microarchitecture attack surfaces.
 
 | Writeup | Category | Core Technique |
 |---------|----------|----------------|
