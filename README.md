@@ -46,7 +46,7 @@ Location: Cairo, Egypt · Open to Remote · Open to Relocate
 | [Anti-Automation Bypass](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/anti-automation-bypass) | Cryptanalysis · RE | SHA-256 on 25-element space · binary parsing |
 | [Chain Reaction: Secure Chat](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/chain-reaction-secure-chat) | Web · Crypto · BinExp | SQLi → XSS → DH manipulation → ECB oracle → BOF |
 | [Emulator Breakthrough](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/emulator-breakthrough) | VM Exploitation · RE | Randomized ISA reconstruction · exit oracle |
-
+| [Ghost Page: Prefetch Side-Channel](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/writeups/prefetch-side-channel) | Microarchitecture · Side-Channel | Non-faulting memory scan · TLB timing oracle · exit-status exfiltration |
 ---
 
 ## Skills
@@ -87,7 +87,8 @@ Embedded          STM32 · CAN · SPI · UART · automotive software · RTOS
 ## Currently
 
 - Working through **kernel exploitation** challenges — vmalloc leaks, SMEP bypass, kernel shellcode constraints
-- Deepening **computer architecture** knowledge — speculative execution, cache hierarchies, microarchitecture attacks
+- Actively researching **microarchitectural attacks** — completed a 
+  prefetch side-channel exploit bypassing ASLR via TLB timing discrimination
 - Building toward **platform security** and **vulnerability research** roles
 
 ---
