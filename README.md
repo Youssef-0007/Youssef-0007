@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║        BREAKING SYSTEMS. DOCUMENTING THE WHY.               ║
+║        BREAKING SYSTEMS. DOCUMENTING THE WHY.	               ║
 ║                   ELEVATING SECURITY.                        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -47,6 +47,7 @@ Location: Cairo, Egypt · Open to Remote · Open to Relocate
 | [Chain Reaction: Secure Chat](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/chain-reaction-secure-chat) | Web · Crypto · BinExp | SQLi → XSS → DH manipulation → ECB oracle → BOF |
 | [Emulator Breakthrough](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/emulator-breakthrough) | VM Exploitation · RE | Randomized ISA reconstruction · exit oracle |
 | [Ghost Page: Prefetch Side-Channel](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/prefetch-side-channel) | Microarchitecture · Side-Channel | Non-faulting memory scan · TLB timing oracle · exit-status exfiltration |
+| [Crossing the Page-Table Boundary](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/cross-process-meltdown) | Kernel Exploitation · Meltdown | Kernel pointer leak · 4-level page-table walk · transient execution · direct-map exfiltration |
 ---
 
 ## Skills
@@ -86,9 +87,9 @@ Embedded          STM32 · CAN · SPI · UART · automotive software · RTOS
 
 ## Currently
 
+- Actively researching **microarchitectural attacks** — prefetch side-channel 
+  via TLB timing discrimination and cross-process Meltdown via manual page-table walk
 - Working through **kernel exploitation** challenges — vmalloc leaks, SMEP bypass, kernel shellcode constraints
-- Actively researching **microarchitectural attacks** — completed a 
-  prefetch side-channel exploit bypassing ASLR via TLB timing discrimination
 - Building toward **platform security** and **vulnerability research** roles
 
 ---
