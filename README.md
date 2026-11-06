@@ -48,6 +48,7 @@ Location: Cairo, Egypt · Open to Remote · Open to Relocate
 | [Emulator Breakthrough](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/emulator-breakthrough) | VM Exploitation · RE | Randomized ISA reconstruction · exit oracle |
 | [Ghost Page: Prefetch Side-Channel](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/prefetch-side-channel) | Microarchitecture · Side-Channel | Non-faulting memory scan · TLB timing oracle · exit-status exfiltration |
 | [Crossing the Page-Table Boundary](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/cross-process-meltdown) | Kernel Exploitation · Meltdown | Kernel pointer leak · 4-level page-table walk · transient execution · direct-map exfiltration |
+| [Userspace Overflow to Protected File Disclosure](https://github.com/Youssef-0007/Offensive-Security-Research/tree/main/Write-ups/kernel-vm-userspace-to-file-disclosure) | Kernel Exploitation · TOCTOU | Canary/PIE leak oracle · control-flow hijack · TOCTOU race · file-offset filter bypass |
 ---
 
 ## Skills
@@ -71,10 +72,10 @@ Embedded          STM32 · CAN · SPI · UART · automotive software · RTOS
 
 ## Projects
 
-**[x86-64 Assembly Web Server](https://github.com/Youssef-0007)**
+**[x86-64 Assembly Web Server](https://github.com/Youssef-0007/Assembly-Level-Web-Server-x86-64-)**
 — HTTP server written entirely in x86-64 assembly. Raw syscall interface, no libc.
 
-**[Linux Character Device Driver](https://github.com/Youssef-0007)**
+**[Linux Character Device Driver](https://github.com/Youssef-0007/Advanced-Embedded-Linux-Development/tree/main/assignments-3-and-later)**
 — Kernel module implementing a character device with custom ioctl interface.
 
 **[Bootloader with CRC Integrity & Version Rollback](https://github.com/Youssef-0007/Basic_Bootloader_Application)**
